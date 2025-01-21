@@ -6,7 +6,7 @@ To usage:
 
 $ sudo apt update
 
-$ git clone https://github.com/universityofkalilinux/WebAdminFinder.git
+$ git clone https://github.com/Fatao/WebAdminFinder.git
 
 $ cd WebAdminFinder
 
