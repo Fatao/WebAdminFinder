@@ -33,9 +33,6 @@ Why only WebAdminFinder?
 
 Coffee | Trip:
 
-https://ko-fi.com/universityofkalilinux
-
-https://www.buymeacoffee.com/u_ofkalilinux
 
 Closing:
 
